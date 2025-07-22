@@ -1,4 +1,4 @@
-baseurl = "https://moonlightmovement.org"
+baseurl = "https://moonlightmovement.github.io"
 metaDataFormat = "yaml"
 title = "Blist Multilingual Theme"
 theme = "blist"

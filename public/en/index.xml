@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blist Multilingual Theme</title>
+    <link>https://moonlightmovement.github.io/en/</link>
+    <description>Recent content on Blist Multilingual Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 15 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://moonlightmovement.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FAQs</title>
+      <link>https://moonlightmovement.github.io/en/faqs/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://moonlightmovement.github.io/en/faqs/</guid>
+      <description>What is Project Moonshot?  Project Moonshot is a grassroots advocacy group dedicated to protecting democracy, combating car dependency, lowering energy costs, and ensuring the responsible implementation of AI. We bring together passionate individuals and organizations to drive meaningful policy change and create a more just, sustainable future.  What issues does Project Moonshot focus on?  We work across four key areas:  Protecting Democracy – Defending voting rights, fighting misinformation, and ensuring fair representation.</description>
+    </item>
+    
+    <item>
+      <title>4 Year Vision</title>
+      <link>https://moonlightmovement.github.io/en/blog/vision/</link>
+      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://moonlightmovement.github.io/en/blog/vision/</guid>
+      <description>The constructive forms of resistance we build will create accessible pathways for millions of people to use skills they already have to take care of their neighbors and fight corruption to stem and reverse the highest autocratic tide in generations.</description>
+    </item>
+    
+    <item>
+      <title>Mission</title>
+      <link>https://moonlightmovement.github.io/en/page/about/</link>
+      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://moonlightmovement.github.io/en/page/about/</guid>
+      <description>Moonlight Movement is an emerging movement driving a four year strategy to stop democratic backsliding and reclaim and rebuild our democracy relying on strategies of creative constructive intervention. Rooted in international anti-authoritarian frameworks and academic research, we are developing and scaffolding an ecosystem of parallel institutions to build power and thought leadership towards a new social contract.
+Source</description>
+    </item>
+    
+    <item>
+      <title>Moonlighting Examples</title>
+      <link>https://moonlightmovement.github.io/en/blog/explained/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://moonlightmovement.github.io/en/blog/explained/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>What is Moonlighting?</title>
+      <link>https://moonlightmovement.github.io/en/blog/definition/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://moonlightmovement.github.io/en/blog/definition/</guid>
+      <description>Definition of a parallel institution from the International Center on Nonviolent Cooperation: “Alternative [or parallel] institution-building is understood broadly as the process undertaken by organized civilians to establish new practices and organizations that are parallel to and aim to challenge dominant socio-economic, cultural, and political structures viewed as unjust and oppressive. Some examples include alternative schools; health clinics; publishing houses… proto-political and governing institutions, and community service organizations”.
+Source</description>
+    </item>
+    
+  </channel>
+</rss>
