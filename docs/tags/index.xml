@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Moonlight Movement</title>
+    <link>https://moonlightmovement.org/tags/</link>
+    <description>Recent content in Tags on Moonlight Movement</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 15 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://moonlightmovement.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>emoji</title>
+      <link>https://moonlightmovement.org/tags/emoji/</link>
+      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://moonlightmovement.org/tags/emoji/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>css</title>
+      <link>https://moonlightmovement.org/tags/css/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://moonlightmovement.org/tags/css/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>html</title>
+      <link>https://moonlightmovement.org/tags/html/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://moonlightmovement.org/tags/html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>markdown</title>
+      <link>https://moonlightmovement.org/tags/markdown/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://moonlightmovement.org/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
