@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://moonlightmovement.github.io/dy/</loc>
+    <loc>https://moonlightmovement.org/dy/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://moonlightmovement.github.io/en/"
+                href="https://moonlightmovement.org/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://moonlightmovement.github.io/de/"
+                href="https://moonlightmovement.org/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="dy"
-                href="https://moonlightmovement.github.io/dy/"
+                href="https://moonlightmovement.org/dy/"
                 />
   </url><url>
-    <loc>https://moonlightmovement.github.io/dy/categories/</loc>
+    <loc>https://moonlightmovement.org/dy/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://moonlightmovement.github.io/en/categories/"
+                href="https://moonlightmovement.org/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://moonlightmovement.github.io/de/categories/"
+                href="https://moonlightmovement.org/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="dy"
-                href="https://moonlightmovement.github.io/dy/categories/"
+                href="https://moonlightmovement.org/dy/categories/"
                 />
   </url><url>
-    <loc>https://moonlightmovement.github.io/dy/tags/</loc>
+    <loc>https://moonlightmovement.org/dy/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://moonlightmovement.github.io/en/tags/"
+                href="https://moonlightmovement.org/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://moonlightmovement.github.io/de/tags/"
+                href="https://moonlightmovement.org/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="dy"
-                href="https://moonlightmovement.github.io/dy/tags/"
+                href="https://moonlightmovement.org/dy/tags/"
                 />
   </url>
 </urlset>
