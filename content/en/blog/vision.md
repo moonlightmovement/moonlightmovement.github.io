@@ -1,10 +1,19 @@
 ---
 author: "Hugo Authors"
-title: "4 Year Vision"
-date: 2021-07-15
-description: "What we hope to accomplish"
+title: "Vision"
+date: 2025-09-01
+description: "What we hope to accomplish in 4 years"
 tags: ["emoji"]
-thumbnail: https://picsum.photos/id/1050/400/250
+thumbnail: /stopcoup.PNG
 ---
 
-The constructive forms of resistance we build will create accessible pathways for millions of people to use skills they already have to take care of their neighbors and fight corruption to stem and reverse the highest autocratic tide in generations. 
+## 4 year vision:
+
+#### Organize workers to use their skills to provide services to protect people from corporate greed and government overreach.
+
+<p>
+
+## Candidates 2025
+
+#### We will be launching a slate of anti-authoritarian candidates for 2025-2026 at all levels of government inspired by a Zohran Mamdani-style smile and hustle politics with a gorgeous vision of the future. Immigrants, federal workers, and all the beautiful people the president is attacking will be at the heart.
+#### Join us!
